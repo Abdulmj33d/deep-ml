@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 11 problems · 1 labs · 0 math
+**13** solved · 12 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-11-15 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-11-11 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-11-15 | [solution](problems/1227-numerically-stable-softmax) |
+| [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-11-16 | [solution](problems/1236-one-adam-update-step) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-11-16 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-11-15 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 

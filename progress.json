@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T11:11:24.244Z",
+  "generated_at": "2026-11-16T11:49:21.145Z",
   "items": {
     "problem:1220": {
       "kind": "problem",
@@ -156,6 +156,19 @@
       "last_pushed_at": "2026-11-16T11:11:23.940Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:1236": {
+      "kind": "problem",
+      "id": "1236",
+      "title": "One Adam Update Step",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1236",
+      "path": "problems/1236-one-adam-update-step",
+      "first_solved_at": "2026-11-16T11:49:20.653Z",
+      "last_pushed_at": "2026-11-16T11:49:20.653Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
