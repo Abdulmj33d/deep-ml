@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T08:29:19.741Z",
+  "generated_at": "2026-11-16T10:57:21.296Z",
   "items": {
     "problem:1220": {
       "kind": "problem",
@@ -130,6 +130,19 @@
       "last_pushed_at": "2026-11-16T08:29:18.956Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:1234": {
+      "kind": "problem",
+      "id": "1234",
+      "title": "One SGD Update Step",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1234",
+      "path": "problems/1234-one-sgd-update-step",
+      "first_solved_at": "2026-11-16T10:57:21.103Z",
+      "last_pushed_at": "2026-11-16T10:57:21.103Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
